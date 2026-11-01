@@ -12,7 +12,7 @@ Built as a single-file web game, the project combines real-time combat simulatio
 
 ## 🌐 Live Website
 
-**Live site:** [Add live website URL]
+**Live site:** https://trench-siege-dead-zone.vercel.app/
 
 ---
 
